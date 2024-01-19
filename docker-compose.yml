@@ -26,5 +26,6 @@ services:
     tty: true
     depends_on:
       - db
+    user: root
 volumes:
   mysql_volume:
