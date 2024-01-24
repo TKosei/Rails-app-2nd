@@ -26,6 +26,9 @@ gem "stimulus-rails"
 # Use Tailwind CSS [https://github.com/rails/tailwindcss-rails]
 gem "tailwindcss-rails"
 
+# Use bulma-rails [https://github.com/joshuajansen/bulma-rails] 
+gem "bulma-rails", "~> 0.9.4"
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
 
